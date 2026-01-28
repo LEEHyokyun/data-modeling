@@ -1,5 +1,10 @@
 ## 1.  개요
 
+MySQL BY 8.0.42 ver.
+
+`접속 #1 : docker exec -it data-modeling-mysql bash`
+
+`접속 #2 : mysql -u root -p`
+
 - 본 프로젝트는 Data-modeling 등 Data 설계 및 아키텍칭에 대한 내용을 담고 있으며, 개발과 더불어 Database에 대한 내용들을 기록한다.
 - 일전과 마찬가지로 이론에 그치지 않고 실무 활용, 이와 관련한 깊이 있는 고민을 통해 즉각 실무 적용이 가능할 정도로 역량을 보완하도록 한다.
-
